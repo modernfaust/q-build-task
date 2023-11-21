@@ -1,0 +1,6 @@
+@qbuild_backend_HostAddress = http://localhost:5079
+
+GET {{qbuild_backend_HostAddress}}/parts/
+Accept: application/json
+
+###

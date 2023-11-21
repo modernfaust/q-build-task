@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "qbuild-backend", "qbuild-backend.csproj", "{F6447EE6-EA2B-4063-9975-E09B76ECD10F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F6447EE6-EA2B-4063-9975-E09B76ECD10F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6447EE6-EA2B-4063-9975-E09B76ECD10F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6447EE6-EA2B-4063-9975-E09B76ECD10F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6447EE6-EA2B-4063-9975-E09B76ECD10F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8B270FB1-04ED-4675-960D-A53266E0683F}
+	EndGlobalSection
+EndGlobal
